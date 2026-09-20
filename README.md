@@ -31,7 +31,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/italokisame)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=gray)](https://discord.com/users/Kisame_Italo)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:contatorafaballerini@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:carlositalo760@gmail.com)
 
 
 <img width="50" height="50" alt="4OKl" src="https://github.com/user-attachments/assets/87313434-9b55-4ab4-bb44-5ba7693b2d3a" />
