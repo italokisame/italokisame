@@ -34,7 +34,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:carlositalo760@gmail.com)
 
 
-<img width="50" height="50" alt="4OKl" src="https://github.com/user-attachments/assets/87313434-9b55-4ab4-bb44-5ba7693b2d3a" />
+<img width="50" height="50" alt="4OKl" src="https://github.com/user-attachments/assets/87313434-9b55-4ab4-bb44-5ba7693b2d3a" /><br>
+[📧 Carlositalo760@gmail.com (em caso do botão não funcionar)](mailto:seuemail@gmail.com)
 
 </div>
       </p>
